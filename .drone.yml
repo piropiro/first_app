@@ -1,0 +1,5 @@
+build:
+    image: ruby:2.3.0
+    commands:
+        - bundle install
+
